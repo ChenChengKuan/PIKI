@@ -1,7 +1,7 @@
 # PKI
 This is the prototype of recommendation system for pinkoi. To ensure everything works smoothly, check follwoing dependencies
 
-* Python 2.7up (not work for python 3)
+* Python 2.7up (it might not work for python 3)
 * Apache Spark 1.5.1 up(If you want to run DesignerSimilarity.ipynb) 
 
 
