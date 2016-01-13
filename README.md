@@ -1,4 +1,4 @@
-# PKI
+# PIKI
 This is the prototype of recommendation system for pinkoi. To ensure everything works smoothly, check follwoing dependencies
 
 * Python 2.7up (it might not work for python 3)
